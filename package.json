@@ -2,7 +2,7 @@
   "author": "Thorsten Lorenz <thlorenz@gmx.de> (thorstenlorenz.wordpress.com)",
   "name": "minimal-queue",
   "description": "Minimal FIFO queue implementation to be used for simple concurrency limiting scenarios.",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "repository": {
     "type": "git",
     "url": "git://github.com/thlorenz/minimal-queue.git"
