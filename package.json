@@ -11,7 +11,7 @@
       "type" : "MIT",
       "url" : "http://www.opensource.org/licenses/mit-license.php"
   }],
-  "main:" "./minimal-queue",
+  "main": "./minimal-queue",
   "keywords:": [
     "fifo",
     "queue",
