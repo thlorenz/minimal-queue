@@ -1,0 +1,26 @@
+{
+  "author": "Thorsten Lorenz <thlorenz@gmx.de> (thorstenlorenz.wordpress.com)",
+  "name": "minimal-queue",
+  "description": "Minimal FIFO queue implementation to be used for simple concurrency limiting scenarios.",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thlorenz/minimal-queue.git"
+  },
+  "licenses" : [{
+      "type" : "MIT",
+      "url" : "http://www.opensource.org/licenses/mit-license.php"
+  }],
+  "main:" "./minimal-queue",
+  "keywords:": [
+    "fifo",
+    "queue",
+    "tools"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
