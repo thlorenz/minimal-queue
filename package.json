@@ -1,5 +1,5 @@
 {
-  "author": "Thorsten Lorenz <thlorenz@gmx.de> (thorstenlorenz.wordpress.com)",
+  "author": "Thorsten Lorenz <thlorenz@gmx.de> (thlorenz.com)",
   "name": "minimal-queue",
   "description": "Minimal FIFO queue implementation to be used for simple concurrency limiting scenarios.",
   "version": "0.0.1",
